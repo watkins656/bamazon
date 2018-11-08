@@ -2,7 +2,7 @@
 
 ## Synopsis
 
-* [Video Walkthrough](link/link.link)
+* [Video Walkthrough](https://drive.google.com/file/d/1R_Gv4YD7ttMKPPzyzEl1FLuV-PkzjYYb/view)
 
 ![BAMAZON](Capture.PNG)
 
